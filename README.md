@@ -2,6 +2,7 @@
 + https://itviec.com/it-jobs/senior-full-stack-dev-net-angular-salary-up-3000-fpt-software-4000
 + https://careers.nashtechglobal.com/job/technical-architect-ms/
 + https://www.scnsoft.com/about/careers/solution-architect-dot-net
++ https://www.packtpub.com/product/solution-architecture-with-net/9781801075626
 
 # Solution Architecture with .NET
 
